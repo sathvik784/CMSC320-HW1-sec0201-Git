@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows for multiple people to collaborate on a codebase/project at the same time. It is a version control system
+that keeps track of changes in our code over time. This makes it easy to revert to previous versions of the codebase. In 
+addition, people can collaborate without overwriting other people's work.
